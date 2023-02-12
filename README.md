@@ -6,7 +6,7 @@ A CRDT-powered TODO application built using Automerge.
 <img width="617" alt="Screen Shot 2023-02-11 at 10 26 03 PM" src="https://user-images.githubusercontent.com/294042/218296561-c38f3ee2-08ab-4d01-9442-dcad0a809229.png">
 
 ## What is a CRDT?
-A Conflict-free Replicated Data Type (CRDT) is a data structure that allows multiple replicas to be updated independently and then merged together in a conflict-free manner. This enables collaboration in asyhcronous, real-time, and offline scenarios, where each replica can be updated independently and then merged together when they are synced.
+A Conflict-free Replicated Data Type (CRDT) is a data structure that allows multiple replicas to be updated independently and then merged together in a conflict-free manner. This enables collaboration in asynchronous, real-time, and offline scenarios, where each replica can be updated independently and then merged together when they are synced.
 
 ## What is Automerge?
 Automerge is an npm library for creating and merging CRDTs. It provides a simple interface for creating and manipulating conflict-free data structures that can be shared across multiple clients. A cool thing about Automerge is it uses WebAssembly to perform it's operations quickly.
