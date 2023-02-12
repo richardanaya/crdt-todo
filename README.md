@@ -12,9 +12,7 @@ This project is a simple TODO application that demonstrates the use of CRDTs usi
 
 ## Key Features
 - Load, save, and merge binary representations of your workspace state.
-- Real-time collaboration using CRDTs.
-- Works offline and online.
-- Built using Automerge, a simple and powerful library for building CRDTs.
+- Asynch collaboration using CRDTs (save TODOs, give them to other people , have them edit, then hand back )
 
 ## Getting Started
 To get started with this project, you'll need to have Node.js and npm installed. Then, simply clone the repository and run `npm install` to install the dependencies.
