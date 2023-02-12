@@ -17,5 +17,5 @@ This project is a simple TODO application that demonstrates the use of CRDTs usi
 ## Getting Started
 To get started with this project, you'll need to have Node.js and npm installed. Then, simply clone the repository and run `npm install` to install the dependencies.
 
-Once you have the dependencies installed, you can start the application by running `npm start`.
+Once you have the dependencies installed, you can start the application by running `npm run dev`.
 
