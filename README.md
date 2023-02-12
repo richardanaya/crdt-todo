@@ -1,4 +1,4 @@
-# CRDT-Todo
+# CRDT Todo
 A CRDT-powered TODO application built using Automerge.
 
 ## What is a CRDT?
